@@ -8,3 +8,7 @@ Write a script that adds execute permission to the owner and the group owner, an
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Write a script that sets the permission to the file hello as follows
 Write a script that sets the mode of the file hello to this
+Write a script that sets the mode of the file hello the same as olleh’s mode
+Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+Create a script that creates a directory called my_dir with permissions 751 in the working directory
+Write a script that changes the group owner to school for the file hello
