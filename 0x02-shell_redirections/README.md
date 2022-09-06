@@ -10,3 +10,8 @@ Write a script that writes into the file ls_cwd_content the result of the comman
 Write a script that duplicates the last line of the file iacta
 Write a script that deletes all the regular files
 Write a script that counts the number of directories and sub-directories in the current directory
+Create a script that displays the 10 newest files in the current directory
+Create a script that takes a list of words as input and prints only words that appear exactly once
+Display lines containing the pattern “root” from the file
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
