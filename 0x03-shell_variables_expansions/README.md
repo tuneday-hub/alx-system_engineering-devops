@@ -4,3 +4,4 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 Create a script that counts the numb
 
 er of directories in the PATH
+Create a script that lists environment variables
